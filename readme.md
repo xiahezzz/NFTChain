@@ -23,7 +23,7 @@ This project is based on HyperLedger Fabric.It implementes a backend, but its no
 Make sure you have installed go >= 1.18.3 and docker >= 20.10.17.You should use  `git clone` to add this project  locally and cd into the folder.Run ./bootstrap.sh to install fabric.
 
 ```bash
-git clone .. && cd /NFTChain/
+git clone https://github.com/xiahezzz/NFTChain.git && cd /NFTChain/
 ./bootstrap.sh
 ```
 
